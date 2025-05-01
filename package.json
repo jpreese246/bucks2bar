@@ -1,0 +1,14 @@
+{
+  "name": "bucks2bar",
+  "version": "1.0.0",
+  "description": "## Overview The bucks2bar project is a web application that utilizes Bootstrap for responsive design and modern UI components. This project serves as a template for building web applications with Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
